@@ -1,9 +1,0 @@
-
-
-
-
-conda create -n langchain-agent python=3.11
-conda activate langchain-agent
-
-pip install -r requirements.txt
-
